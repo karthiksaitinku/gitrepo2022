@@ -1,0 +1,1 @@
+git branch –D branch-name   (If branch is fully not merged to other branch, Then to delete that branch we use this command.
